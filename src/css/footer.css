@@ -1,0 +1,18 @@
+footer {
+  font-size: 26;
+  font-weight: inherit;
+  padding: 20px;
+  margin-top: 200px;
+  text-align: center;
+
+}
+.containerfooter {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+
+

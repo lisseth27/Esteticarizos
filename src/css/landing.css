@@ -1,0 +1,84 @@
+input {
+background: white;
+color:rgb(8, 8, 8); 
+  width: auto;
+  padding: 10px;
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 5px;
+  font-size: 20px;
+  box-sizing: border-box;
+  display: flex;
+  margin: 6px auto;
+  transition: border-color 0.3s ease;
+  height: auto;
+}
+
+.image{
+  height: 500px;
+  width: auto;
+  background-image: url("../img/estetica.jpg");
+  padding: 50px;
+  background-position: 0%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+  margin: 20px;
+}
+.ranking{
+margin: 50px; 
+padding: 50px; 
+}
+.container-testimonio{
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+}
+p{
+  color: black;
+  margin: 20px;
+  padding: 100px;
+}
+.container-todo{
+  display: flex;
+  margin: 30px;
+  padding: 20px;
+  width: 100%;
+  height: 700px;
+}
+.container-izquierda{
+  width: 50%;
+  padding: 20px;
+  margin: 20px;
+
+}
+.container-derecha{
+  background-image: url(../img/estetica2.jpeg);
+  width: 100%;
+  height: 600px;
+
+}
+.container-faq{
+  padding: 50px;
+  margin: 100px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.container-calendario{
+  padding: 50px;
+  margin: 100px;
+  display: flex
+}
+.registra-cita{
+  padding: 50px;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

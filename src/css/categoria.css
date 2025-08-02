@@ -1,0 +1,27 @@
+.list{
+    width: 30%;
+    height: 100%;
+    border-radius: 10px;
+padding: 20px;
+margin: 20px;
+justify-items: center;
+ display: flex;
+ flex-direction: row ;
+
+}
+.contenedor-general{
+    display: flex;
+
+}
+.contenedor-izquierdo{
+justify-content: left;
+margin: 10px;
+padding: 10px;
+width: 30%;
+}
+.contenedor-derecho{
+justify-content: center;
+margin: 10px;
+padding: 10px;
+width: 70%;
+}

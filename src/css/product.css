@@ -1,0 +1,84 @@
+
+.containerpage{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.container-producto{
+    margin: 10px;
+    padding: 0px;
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    background-color: rgb(235, 230, 230);
+}
+
+.image1{
+    background-image: url("../img/cortepelo.jpeg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 300px;
+    width: 330px;
+    margin: 15px;
+    padding: 0px;
+    border-radius: 50px;
+}
+
+.image2{
+    background-image: url("../img/pestañas.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 300px;
+    width: 330px;
+    margin: 15px;
+    padding: 0px;
+    border-radius: 50px;
+}
+
+.image3{
+    background-image: url("../img/uñas.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 300px;
+    width: 330px;
+    margin: 15px;
+    padding: 0px;
+    border-radius: 50px;
+}
+.precio{
+    margin: 0px;
+    padding: 0px;
+}
+button{
+    margin: 30px;
+}
+.img1{
+    background-image: url("../img/duofacial.png");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 300px;
+    width: 330px;
+    margin: 15px;
+    padding: 0px;
+    border-radius: 50px;
+}
+.img2{
+    background-image: url("../img/lifting.png");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 300px;
+    width: 330px;
+    margin: 15px;
+    padding: 0px;
+    border-radius: 50px;
+}
+.img3{
+    background-image: url("../img/peeling.png");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 300px;
+    width: 330px;
+    margin: 15px;
+    padding: 0px;
+    border-radius: 50px;
+}

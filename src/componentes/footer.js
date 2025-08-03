@@ -8,6 +8,7 @@ export function Footer() {
       <div className="containerfooter">
       
             <grid> Estetica Rizos </grid>
+            <p>Direccion: uranio 135 San Pedro Garza Garcia </p>
           
 
           <Link href="/contacto">Contacto</Link>

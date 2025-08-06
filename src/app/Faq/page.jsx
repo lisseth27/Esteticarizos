@@ -25,7 +25,7 @@ const Accordion = () => {
           <div className="w-full px-1  lg:w-1/2">
             <AccordionItem
               header="¿Donde se encuentran?"
-              text="Nos encontramos en monterrey en la avenida. VIVERO HUINALA, Calle porfirio diaz, numero 134, 66640, Apodaca, N.L."
+              text="Nos encontramos en la avenida. HUINALA, Calle porfirio diaz, numero 134, 66640, Apodaca, N.L."
             />
             <AccordionItem
               header="¿Cuales son los horarios de atencion?"
